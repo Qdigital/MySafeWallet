@@ -130,7 +130,7 @@
     "minimist": "1.2.0",
     "mycrypto-nano-result": "0.0.1",
     "node-hid": "0.7.2",
-    "node-sass": "4.8.3",
+    "node-sass": "7.0.0",
     "nodemon": "1.17.3",
     "null-loader": "0.1.1",
     "prettier": "1.11.1",
